@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".usuarios.distrito.Distrito">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Distrito"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/actividades_distrito"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/actividades_distrito" />
+
+</LinearLayout>

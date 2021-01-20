@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Laboratorio-ListView</string>
+
+    <string-array name="actividades_alto_nivel">
+        <item>Cambio Contraseña</item>
+        <item>Registro</item>
+    </string-array>
+
+    <string-array name="usuarios">
+        <item>Natural</item>
+        <item>Diagnóstico</item>
+        <item>Seguimiento</item>
+        <item>Distrito</item>
+    </string-array>
+
+    <string-array name="actividades_natural">
+        <item>Servicio de Ubicación</item>
+        <item>Reporte de Sintomas</item>
+        <item>Consulta de Desplazamiento</item>
+        <item>Consulta de Riesgo</item>
+        <item>Consulta de Estado y Perfil</item>
+    </string-array>
+
+    <string-array name="actividades_seguimiento">
+        <item>Monitorear Movimiento</item>
+    </string-array>
+
+    <string-array name="actividades_distrito">
+        <item>Reporte de Resultado de Examen COVID</item>
+        <item>Reporte General por Zona</item>
+    </string-array>
+
+    <string-array name="actividades_diagnostico">
+        <item>Noficicación de Cita</item>
+    </string-array>
+
+
+</resources>
